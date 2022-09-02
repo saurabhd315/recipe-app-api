@@ -1,2 +1,3 @@
-# recipe-app-apo
+# recipe-app-api
+
 API Project
